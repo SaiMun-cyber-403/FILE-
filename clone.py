@@ -1,2 +1,6 @@
-chmod+x *
-./FILE
+import os
+
+os.system('chmod +x *')
+
+os.system('./FILE')
+
